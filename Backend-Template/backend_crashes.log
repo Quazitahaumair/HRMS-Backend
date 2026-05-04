@@ -1,0 +1,635 @@
+[2026-04-08T11:14:12.779Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:16:54.642Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:17:30.672Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:20:22.552Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:21:14.318Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:23:33.361Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:25:24.041Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:27:12.716Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:27:26.045Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:33:15.560Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:36:24.528Z] ERROR 500: SQLITE_ERROR: no such column: designation
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T11:47:04.060Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T11:47:17.210Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T11:55:24.103Z] ERROR 500: Validation error
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async User.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async createEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:29:16)
+    at async createEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:27:22)
+
+[2026-04-08T11:55:38.466Z] ERROR 500: Validation error
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async User.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async createEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:29:16)
+    at async createEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:27:22)
+
+[2026-04-08T11:56:30.860Z] ERROR 500: Validation error
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async User.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async createEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:29:16)
+    at async createEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:27:22)
+
+[2026-04-08T12:00:04.136Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T12:00:37.000Z] ERROR 500: Validation error
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async User.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async createEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:29:16)
+    at async createEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:27:22)
+
+[2026-04-08T12:01:23.538Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T12:01:38.011Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T12:03:35.753Z] ERROR 500: SQLITE_CORRUPT: database disk image is malformed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T12:03:50.432Z] ERROR 500: SQLITE_CORRUPT: database disk image is malformed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T12:03:59.356Z] ERROR 500: SQLITE_CORRUPT: database disk image is malformed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T12:04:23.353Z] ERROR 500: SQLITE_CORRUPT: database disk image is malformed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:35:16)
+
+[2026-04-08T12:50:48.971Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-08T13:10:58.606Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:14:13.604Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:14:34.325Z] ERROR 400: Expected ',' or '}' after property value in JSON at position 307 (line 13 column 2)
+SyntaxError: Expected ',' or '}' after property value in JSON at position 307 (line 13 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:228:14)
+    at invokeCallback (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1729:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+[2026-04-08T13:14:47.279Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:16:31.644Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:17:06.073Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:17:25.147Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:18:12.641Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:18:28.267Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-08T13:18:33.569Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:36:20)
+
+[2026-04-09T09:51:07.286Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T09:51:10.034Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T09:51:19.909Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T10:21:31.918Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T10:21:42.088Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T10:31:58.452Z] ERROR 500: SQLITE_BUSY: database is locked
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+
+[2026-04-09T10:31:59.813Z] ERROR 500: SQLITE_BUSY: database is locked
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async Payroll.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async Payroll.findOrCreate (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1422:25)
+    at async ensurePayrollForUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\payrollService.js:34:21)
+
+[2026-04-09T11:43:47.696Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-09T11:55:12.294Z] ERROR 404: Attendance record not found
+Error: Attendance record not found
+    at updateAttendanceRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:35:19)
+    at async updateAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:37:20)
+
+[2026-04-10T06:42:54.116Z] ERROR 500: Validation error
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async User.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async createEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:29:16)
+    at async createEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:28:22)
+
+[2026-04-10T06:53:43.174Z] ERROR 500: SQLITE_BUSY: database is locked
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async Payroll.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async Payroll.findOrCreate (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1422:25)
+    at async ensurePayrollForUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\payrollService.js:34:21)
+
+[2026-04-10T13:13:23.499Z] ERROR 500: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.delete (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:393:12)
+    at async model.destroy (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2627:16)
+    at async deleteEmployee (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:80:3)
+    at async deleteEmployeeRecord (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:47:20)
+
+[2026-04-13T06:01:14.699Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-13T06:02:33.318Z] ERROR 401: Invalid credentials
+Error: Invalid credentials
+    at loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:37:19)
+    at async login (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\authController.js:14:21)
+
+[2026-04-15T07:26:39.909Z] ERROR 500: SQLITE_ERROR: no such column: isResigned
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:45:16)
+
+[2026-04-15T07:27:09.779Z] ERROR 500: SQLITE_ERROR: no such column: isResigned
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:45:16)
+
+[2026-04-15T07:27:52.941Z] ERROR 500: SQLITE_ERROR: no such column: isResigned
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SQLiteQueryInterface.select (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async User.findAll (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1140:21)
+    at async User.findOne (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1240:12)
+    at async loginUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\authService.js:45:16)
+
+[2026-04-15T07:39:22.831Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:22.845Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:27.433Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:27.451Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:31.517Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:31.538Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:39.288Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:39:39.300Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:14.653Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:14.663Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:17.820Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:17.834Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:29.617Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:29.690Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:45.099Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:45.194Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:47.097Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:40:47.129Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:41:22.966Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:41:23.008Z] ERROR 404: Employee not found
+Error: Employee not found
+    at getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\employeeService.js:18:19)
+    at async getEmployeeById (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\employeeController.js:22:22)
+
+[2026-04-15T07:43:50.357Z] ERROR 500: SQLITE_BUSY: database is locked
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async Payroll.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async Payroll.findOrCreate (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1422:25)
+    at async ensurePayrollForUser (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\payrollService.js:34:21)
+
+[2026-04-15T07:51:51.120Z] ERROR 500: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async Attendance.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async markUserAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:21:22)
+    at async markEmployeeAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:43:20)
+
+[2026-04-15T07:51:57.613Z] ERROR 500: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+    at async Attendance.create (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:1362:12)
+    at async markUserAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\services\attendanceService.js:21:22)
+    at async markEmployeeAttendance (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\controllers\attendanceController.js:43:20)
+
+[2026-05-04T06:58:59.412Z] ERROR 500: SQLITE_BUSY: database is locked
+Error
+    at Database.<anonymous> (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\sequelize.js:315:28
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async SQLiteQueryInterface.insert (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\quazi taha\Documents\HRMS-Backend\Backend-Template\node_modules\sequelize\lib\model.js:2490:35)
+
